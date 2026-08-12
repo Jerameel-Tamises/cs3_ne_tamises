@@ -1,6 +1,3 @@
-print("shipping_speed")
-cart_total=(input)
-
 def calculate_checkout(cart_total, shipping_speed):
     if shipping_speed == "express":
         shipping = 20
